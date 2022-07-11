@@ -1,0 +1,22 @@
+DB:
+dbname:bibllmga_bibloteka	 
+dbuser: bibllmga_medina
+dbpassword: devsfor2020
+--------------------------------------------------
+namecheap llogaria
+username: bookwormsdevs
+password: devsfor2020
+email: devsbookworms@gmail.com
+-----------------------------------------
+gmail qe e kam hap namecheap
+
+password: devsfor2020
+email: devsbookworms@gmail.com
+-----------------------------------
+email qe perdoret prej sistemit
+email: info@biblotekaelipjanit.com
+password: devsfor2020
+
+----------------------------------------------------------
+$2y$10$qlqK2OnMkuB6vl0Vzn0tZOH9WG0jvOc34slJmja8mqjvN8GkR2jji
+123456
